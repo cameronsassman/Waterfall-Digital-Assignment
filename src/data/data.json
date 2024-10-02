@@ -1,0 +1,92 @@
+{
+  "restaurants": [
+    {
+      "name": "Savory Table",
+      "categories": [
+        {
+          "name": "Appetizers/Starters",
+          "menuItems": [{ "name": "Grilled Chicken Caesar Salad", "price": 12 }]
+        },
+        {
+          "name": "Soups",
+          "menuItems": [{ "name": "Creamy Tomato Basil Soup", "price": 8 }]
+        },
+        {
+          "name": "Main Courses/Entrées",
+          "menuItems": [
+            { "name": "Spaghetti Carbonara", "price": 15 },
+            { "name": "Margherita Pizza", "price": 13 }
+          ]
+        },
+        {
+          "name": "Seafood",
+          "menuItems": [
+            { "name": "Seared Salmon with Lemon Butter Sauce", "price": 18 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Urban Fork",
+      "categories": [
+        {
+          "name": "Burgers/Sandwiches",
+          "menuItems": [{ "name": "BBQ Pulled Pork Sandwich", "price": 10 }]
+        },
+        {
+          "name": "Main Courses/Entrées",
+          "menuItems": [
+            { "name": "Ribeye Steak with Garlic Mashed Potatoes", "price": 20 }
+          ]
+        },
+        {
+          "name": "Pasta/Noodles",
+          "menuItems": [{ "name": "Shrimp Scampi Linguine", "price": 16 }]
+        },
+        {
+          "name": "Desserts",
+          "menuItems": [{ "name": "Chocolate Lava Cake", "price": 6 }]
+        }
+      ]
+    },
+    {
+      "name": "Harvest & Hearth",
+      "categories": [
+        {
+          "name": "Salads",
+          "menuItems": [{ "name": "Vegan Buddha Bowl", "price": 11 }]
+        },
+        {
+          "name": "Appetizers/Starters",
+          "menuItems": [{ "name": "Grilled Chicken Caesar Salad", "price": 12 }]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Spoon",
+      "categories": [
+        {
+          "name": "Soups",
+          "menuItems": [{ "name": "Creamy Tomato Basil Soup", "price": 8 }]
+        },
+        {
+          "name": "Main Courses/Entrées",
+          "menuItems": [{ "name": "Margherita Pizza", "price": 13 }]
+        }
+      ]
+    },
+    {
+      "name": "Eclipse Bistro",
+      "categories": [
+        {
+          "name": "Burgers/Sandwiches",
+          "menuItems": [{ "name": "BBQ Pulled Pork Sandwich", "price": 10 }]
+        },
+        {
+          "name": "Desserts",
+          "menuItems": [{ "name": "Chocolate Lava Cake", "price": 6 }]
+        }
+      ]
+    }
+  ]
+}
